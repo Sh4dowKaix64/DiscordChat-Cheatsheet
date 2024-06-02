@@ -12,7 +12,7 @@ Feel free to contribute
 
 ## 🧑‍💻 **Contributors**
 
-| Name           |                   Profile                    |
+| Name           |                       Profile                       |
 | -------------- | :-------------------------------------------------: |
-| Sh4dowKai_x64 |     [GitHub Profile](https://https://github.com/Sh4dowKaix64)     |
+| Sh4dowKai_x64  |  [GitHub Profile](https://github.com/Sh4dowKaix64)  |
 
